@@ -1,3 +1,5 @@
 SELECT prod_id, product_name, price, quantity
 FROM products; shyam
+RAM
+
 
